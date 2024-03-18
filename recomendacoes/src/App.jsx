@@ -1,11 +1,8 @@
 import {Inicial} from './paginas/Inicial'
+import './global.css'
 
-function App() {
-
+export function App() {
   return (
      <Inicial />
-    
   )
 }
-
-export default App
