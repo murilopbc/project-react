@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container img {
+    width: 250px;
+    border-radius: 8px;
+}
+
+.container figcaption{
+    padding: 12px 0;
+}
+
+.container p {
+    padding: 6px 0;
+}

@@ -11,17 +11,17 @@
 
 header {
     grid-area: cabecalho;
-    background-color: rgb(233, 219, 219);
+    background-color: #ffff;
     
 }
 
 aside {
     grid-area: lateral;
-    background-color: lightcyan;
+    background-color: #ffff;
 }
 
 main {
     grid-area: conteudo;
-    background-color: rgb(255, 203, 183);
+    background-color: #ffff;
 }
 

@@ -1,10 +1,10 @@
 import estilos from './Lista.module.css'
-import {Card} from '../componentes/Card'
+import {Filme} from '../componentes/Filme'
 
 export function Lista() {
     return (
         <main className={estilos.container}>
-            <Card/>
+            <Filme/>
         </main>
     )
 }
