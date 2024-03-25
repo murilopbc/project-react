@@ -1,5 +1,24 @@
 .container {
+    background-color: white;
+}
+
+.imagemCabecalho {
+    width: 100%;
+    height: 75px;
+    object-fit: cover;
+}
+
+.perfil {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
     align-items: center;
+    margin: -2.5rem;
+}
+
+.avatar {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50px;
+    border: 4px solid var(--roxo-escuro);
+    margin-bottom: 1rem;
 }

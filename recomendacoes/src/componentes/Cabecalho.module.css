@@ -8,4 +8,6 @@
 .container p {
     font-size: 2rem;
     color: var(--cinza-claro);
+    margin-right: 10px;
+    margin: 0 16px;
 }
