@@ -2,12 +2,9 @@
     background-color: var(--roxo-escuro);
     display: flex;
     width: 300px;
-    height: 650px;
+    padding: 10px;
     border-radius: 8px;
-    justify-content: center;
-    align-items: center;
     transition: transform .25s;
-    padding: 18px;
     margin: 10px 5px;
 }
 
