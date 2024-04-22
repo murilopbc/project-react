@@ -25,3 +25,11 @@
     background-color: var(--roxo-escuro);
     color: var(--cinza-claro);
 }
+
+.mensagem {
+    font-size: .9rem;
+    font-weight: 600;
+    margin-top: -6px;
+    margin-bottom: 1rem;
+    color: red;
+}
