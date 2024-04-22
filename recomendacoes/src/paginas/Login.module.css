@@ -6,7 +6,7 @@
 }
 
 .formulario {
-    display: inline;
+    display: flex;
     flex-direction: column;
     background-color: var(--cinza-claro);
     padding: 30px;
