@@ -9,7 +9,7 @@ export function Inicial() {
     <div className={estilos.gridContainer}>
       <Cabecalho />
       <Lateral />
-      <Perfil/>
+      <Outlet/>
 
     </div>
   )

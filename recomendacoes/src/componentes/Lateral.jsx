@@ -21,14 +21,17 @@ export function Lateral() {
 
             </header>
             <section>
-                <Link className={estilos.botao} to={'/inicial'}>
+                <Link className={estilos.botao} to='/inicial'>
                     Filmes
                 </Link>
-                <Link className={estilos.botao} to={'perfil'}>
+                <Link className={estilos.botao} to='perfil'>
                     Perfil
+                </Link>
+                <Link className={estilos.botao} to='sobre'>
+                    Sobre
                 </Link>
             </section>
 
         </aside>
     )
-}
+} 

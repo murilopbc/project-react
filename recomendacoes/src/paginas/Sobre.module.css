@@ -1,0 +1,20 @@
+
+.perfil {
+    padding-top: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: -2.5rem;
+}
+
+.avatar {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50px;
+    border: 4px solid var(--roxo-escuro);
+    margin-bottom: 1rem;
+}
+
+p {
+    color: white;
+}
